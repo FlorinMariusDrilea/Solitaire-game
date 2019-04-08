@@ -1,0 +1,2 @@
+# Solitaire-game
+Haskell
